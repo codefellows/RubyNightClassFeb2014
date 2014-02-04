@@ -1,6 +1,6 @@
 #, name, email, irc nick-name, github, twitter
 1, Renée Hendricksen, renee@nird.us, reneedv, reneedv, @nirdllc
-2,
+2, 
 3,
 4,
 5,
@@ -12,7 +12,7 @@
 11,
 12,
 13,
-14,
+14, Abe Stephenson, stephenson@asguardnetworks.com, abe, AbeTown, none:(
 15,
 16,
 17,
