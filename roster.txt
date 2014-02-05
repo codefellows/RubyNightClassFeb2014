@@ -15,7 +15,7 @@
 13,
 14, Abe Stephenson, stephenson@asguardnetworks.com, abe, AbeTown, none:(
 15, Rod Sorensen, rodsorensen@hotmail.com, rodjs, rodsorensen, @RodRail,
-16,
+16, Michelle Gutierrez, mgnorman
 17,
 18, Eric Choi, ericjiwonchoi@gmail.com, ejc226, ejc226, @ericjiwonchoi
 19, Erik Nilsen, enilsen16@live.com, enilsen16, @ErikNilsen16
