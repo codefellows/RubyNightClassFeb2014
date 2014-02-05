@@ -6,7 +6,7 @@
 5,
 6, 
 7, Kevin Staiger, kstag07@yahoo.com, kstag07
-8,
+8,Tom Petrie, tgpetrie@gmail.com, tgpetrie
 9,Deirdre Allison, deirdre9@gmail.com, Deirdre?, Deirdreallison, @deirdre_9
 10,
 11, Ayman Al-Abdullah, brokerchange, brokerchange, @brokerchange
