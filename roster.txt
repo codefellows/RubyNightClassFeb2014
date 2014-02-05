@@ -1,6 +1,6 @@
 #, name, email, irc nick-name, github, twitter
 1, Renée Hendricksen, renee@nird.us, reneedv, reneedv, @nirdllc
-2,
+2, 
 3,
 4, Brian Kulp, brianpkulp@gmail.com, , briankulp, @briankulp
 5,
@@ -9,7 +9,7 @@
 8,
 9,
 10,
-11,
+11, Ayman Al-Abdullah, brokerchange, brokerchange, @brokerchange
 12,
 13,
 14,
