@@ -1,6 +1,6 @@
 #, name, email, irc nick-name, github, twitter
 1,  Renée Hendricksen, renee@nird.us, reneedv, reneedv, @nirdllc
-2, 
+2,  Tom, tom@tom.com, tomT, tomT, @tomT
 3,
 4,  Brian Kulp, brianpkulp@gmail.com, , briankulp, @briankulp
 5,  Paul Laskowski, pelaskowski@gmail.com, warmbowski, warmbowski, warmbowski
